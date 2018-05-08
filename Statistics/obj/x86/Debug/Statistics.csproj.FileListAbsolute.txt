@@ -1,0 +1,16 @@
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.ColumnForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.DataForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.MainForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.SheetForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\bin\Debug\Statistics.exe
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\bin\Debug\Statistics.pdb
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.exe
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.pdb
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.RegForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.AlphaForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.ResForm.resources
+c:\users\anton\documents\visual studio 2010\Projects\Statistics\Statistics\obj\x86\Debug\Statistics.ProgressForm.resources

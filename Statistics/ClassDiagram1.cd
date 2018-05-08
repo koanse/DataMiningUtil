@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Statistics.AlphaForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>AlphaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.ColumnForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAAAAAgAAA=</HashCode>
+      <FileName>ColumnForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.DataForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>DataForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.MainForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQCAQoCAAXBAGDBAACGCwIACGACACAACDggEAAAEAAI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Sample" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAFJAAAAAQHAIACQIxgBQAgKAEAAAQIgAAAYEQBnA=</HashCode>
+      <FileName>Stat.cs</FileName>
+      <NewMemberFileName>Program.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Statistics.Regression">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Statistics.Regression.ProgressDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Stat.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAgAAAwAAIBAAAKAABAAEAAABAUFAAAgAABSA=</HashCode>
+      <FileName>Stat.cs</FileName>
+      <NewMemberFileName>Program.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.StatTables">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAEEAAAgAEAAAAAQBAgAAIAAAAAQAAAACAAAAA=</HashCode>
+      <FileName>Stat.cs</FileName>
+      <NewMemberFileName>Program.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.ProgressForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAAAAAACAAAACAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ProgressForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.RegForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAgBACCCAEhEABACAAMASAAAIAEBCIACIAAAESAA=</HashCode>
+      <FileName>RegForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.ResForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ResForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.SheetForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEBAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>SheetForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
