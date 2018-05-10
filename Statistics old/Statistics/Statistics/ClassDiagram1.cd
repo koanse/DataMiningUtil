@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Statistics.DataForm" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgoAAACAAIIEAAACAAEAKAAAAhAACBSAAAIAAAAI=</HashCode>
+      <FileName>DataForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.DropOutForm" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAACAAgBEAAACAAEACACAABAEAACQSAAAAAAA=</HashCode>
+      <FileName>DropOutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.EditDataForm" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAECAACAEAAACAAEACAAIABAAAICAAAAAAAAA=</HashCode>
+      <FileName>EditDataForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.FactorForm" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAACAEABEAAACAAGACAAAABAAAAgAAAABAAAA=</HashCode>
+      <FileName>FactorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.HelpForm" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.IdentForm" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIAAACCABgEAAADAQEACABAEBQAggCAAAAAAAAA=</HashCode>
+      <FileName>IdentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.ImportForm" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAQADQAIJMAAACAQEACAAAABABABCAAAIAAAAA=</HashCode>
+      <FileName>ImportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.MainForm" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BTCCQAYoBCDEgoQBACTS4CBOqFoAAQEEyiCQAYEAAQI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Program" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Sample">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIFJBgQAIQPIIgDQIggCAAAiAEAAAQoiYQQACkhlA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Statistics.TranSample">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAABAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Regression">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAkEBrQICwAAJAEQBLAAEAAMIgEEREGABggKBAQA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.StatTables">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAACAAEAAAAAQBAAAAIAAAAAQAAAAKAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.RepForm" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAACAgAAAAAACAAAACAAAABBAAAAAAAAIAAAA=</HashCode>
+      <FileName>RepForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.SelFactorForm" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAICAAABEQAACAAEACAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SelFactorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Properties.Resources" Collapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics.Properties.Settings" Collapsed="true">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

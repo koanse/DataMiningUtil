@@ -1,0 +1,58 @@
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\Statistics.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\Statistics.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\MathLib.dll
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\NPlot.xml
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.DataForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.DropOutForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.EditDataForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.FactorForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.HelpForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.IdentForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.ImportForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.MainForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.RepForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.SelFactorForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\bin\Release\Statistics.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\bin\Release\Statistics.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\bin\Release\MathLib.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\bin\Release\NPlot.xml
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.DataForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.DropOutForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.EditDataForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.FactorForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.HelpForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.IdentForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.ImportForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.MainForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.RepForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.SelFactorForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Statistics\Statistics\obj\Release\Statistics.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\Statistics.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\Statistics.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\MathLib.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\NPlot.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\bin\Release\NPlot.xml
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.DataForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.DropOutForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.EditDataForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.FactorForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.HelpForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.IdentForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.ImportForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.MainForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.RepForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.SelFactorForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Statistics\Statistics\obj\Release\Statistics.csproj.GenerateResource.Cache
